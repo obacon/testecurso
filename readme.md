@@ -2,4 +2,6 @@
 
 Este é um teste
 
-Curso umedy	
+Curso umedy
+
+Entendendo o conceito de Diff	
